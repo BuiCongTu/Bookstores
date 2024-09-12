@@ -16,6 +16,6 @@ BookStore Online Development
 5. Nguyen Huu Hoang:.....Student1531944
 6. Tran Trong Nhan:..........Student1531946
 
-**Source code**:https://github.com/BuiCongTu/BookStore
+**Source code**:[BookStore](https://github.com/BuiCongTu/Bookstores/tree/main/BookStore)
 
 **View web**:
